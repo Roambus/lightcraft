@@ -20,7 +20,7 @@
 
 | 文件 | 用途 |
 | --- | --- |
-| `fixes/fix-lightcraft.tsv` | 术语修正（`<TAB>English<TAB>建议中文`），键与 `zh-hans.json` 逐字节一致 |
+| `fixes/fix-lightcraft.tsv` | 术语修正（`English<TAB>原译文<TAB>新译文`），键与 `zh-hans.json` 逐字节一致 |
 | `glossary.tsv` | 对照表：English / 上游译文 / Adobe 官方中文 / 建议 / 等级 / 依据 URL / 字节差 |
 | `report.md` | 审校方法与依据（含未核实项，已标注） |
 | `craft_catalog_patch.py` | 把修正等长写进已编译 wasm（发布包）的工具 |
