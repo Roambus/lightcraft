@@ -1,0 +1,10 @@
+# LightCraft 术语修正（crates/ui-egui/locales/zh-hans.json）。
+# 两列：<TAB><English 原文><TAB><建议中文>
+# 第二列与 lightcraft.json 的键【逐字节一致】；只含能在该 JSON 里精确命中的键。
+# 注意：线上构建可能嵌旧版目录，若某键在线上版本不存在，按 key 匹配时会自动跳过该条。
+#
+	Develop	修改照片
+	Exposure	曝光度
+	Filmstrip	胶片显示窗格
+	Keyword	关键词
+	Slideshow	幻灯片放映

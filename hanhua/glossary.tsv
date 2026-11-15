@@ -1,0 +1,161 @@
+english	upstream_zh	adobe_zh	suggested_zh	grade	source_url	delta_bytes
+Anti-alias	抗锯齿	消除锯齿	消除锯齿	A	https://helpx.adobe.com/cn/photoshop/desktop/make-selections/refine-modify-selections/select-pixels-using-anti-aliasing.html	3
+Behind	后面	背后	背后	A	https://helpx.adobe.com/cn/photoshop/using/blending-modes.html	0
+Blacks	黑色	黑色色阶	黑色色阶	A	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-local-adjustments.html	6
+Blur Gallery	模糊库	模糊画廊	模糊画廊	A	https://helpx.adobe.com/cn/photoshop/using/blur-gallery.html	3
+Channel	色版	通道	通道	A	https://helpx.adobe.com/cn/photoshop/desktop/adjust-color/hdr-and-channel-manipulation/channels-in-photoshop.html	0
+Channels	声道	通道	通道	A	https://helpx.adobe.com/cn/photoshop/desktop/adjust-color/hdr-and-channel-manipulation/channels-in-photoshop.html	0
+Clipping Mask	剪切蒙版	剪贴蒙版	剪贴蒙版	A	https://helpx.adobe.com/cn/photoshop/desktop/create-masks/layer-masks/create-and-manage-clipping-masks.html	0
+Color Grading	色彩分级	颜色分级	颜色分级	A	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/image-tone-color.html	0
+Content-Aware Scale	内容识别缩放	内容识别比例	内容识别比例	A	https://helpx.adobe.com/cn/photoshop/desktop/crop-resize-transform/resize-adjust-resolution/transform-images-shapes-and-paths.html	0
+Dehaze	去雾	去朦胧	去朦胧	A	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/image-tone-color.html	3
+Develop	编辑	修改照片	修改照片	A	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/develop-module-options.html	6
+Divide	分割	划分	划分	A	https://helpx.adobe.com/cn/photoshop/using/blending-modes.html	0
+Equalize	色调均化	色彩均化	色彩均化	A	https://helpx.adobe.com/cn/photoshop/desktop/adjust-color/color-corrections/equalize-brightness-values-in-an-image.html	0
+Hard Mix	硬混合	实色混合	实色混合	A	https://helpx.adobe.com/cn/photoshop/using/blending-modes.html	3
+High Pass	高通	高反差保留	高反差保留	A	https://helpx.adobe.com/cn/photoshop/desktop/effects-filters/blur-sharpen-filters/filter-effects-reference.html	9
+Keyword	关键字	关键词	关键词	A	https://helpx.adobe.com/cn/lightroom-classic/desktop/organize-photos-in-lightroom-classic/keywords.html	0
+Library	库	图库	图库	A	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-local-adjustments.html	3
+Luminance	亮度	明亮度	明亮度	A	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-local-adjustments.html	3
+Luminosity	亮度	明度	明度	A	https://helpx.adobe.com/cn/photoshop/using/blending-modes.html	0
+Masking	蒙版保护	蒙版	蒙版	A	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/retouch-photos.html	-6
+Maximum	最高	最大值	最大值	A	https://helpx.adobe.com/cn/photoshop/desktop/effects-filters/blur-sharpen-filters/filter-effects-reference.html	3
+Median	中位数	中间值	中间值	A	https://helpx.adobe.com/cn/photoshop/desktop/effects-filters/blur-sharpen-filters/filter-effects-reference.html	0
+Pointillize	点彩	点状化	点状化	A	https://helpx.adobe.com/cn/photoshop/desktop/effects-filters/blur-sharpen-filters/filter-effects-reference.html	3
+Reduce Noise	降低噪声	减少杂色	减少杂色	A	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/develop-module-options.html	0
+Selection	所选内容	选区	选区	A	https://helpx.adobe.com/cn/photoshop/desktop/make-selections/get-started-selections/selection-tools-overview.html	-6
+Skew	倾斜	斜切	斜切	A	https://helpx.adobe.com/cn/photoshop/desktop/crop-resize-transform/resize-adjust-resolution/transform-images-shapes-and-paths.html	0
+Slideshow	幻灯片播放	幻灯片放映	幻灯片放映	A	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-presets.html	0
+Tint	色偏	色调	色调	A	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-local-adjustments.html	0
+Unsharp Mask	反锐化遮罩	钝化蒙版	钝化蒙版	A	https://helpx.adobe.com/cn/photoshop/desktop/effects-filters/smart-filters/sharpening-overview.html	-3
+Unsharp Mask	Unsharp Mask	钝化蒙版	钝化蒙版	A	https://helpx.adobe.com/cn/photoshop/desktop/effects-filters/smart-filters/sharpening-overview.html	0
+Whites	白色	白色色阶	白色色阶	A	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-local-adjustments.html	6
+Amount	强度	数量	数量	B	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-local-adjustments.html	0
+Darks	暗部	阴影	阴影	B	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-local-adjustments.html	0
+Darks	暗调	阴影	阴影	B	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-local-adjustments.html	0
+Density	浓度	密度	密度	B	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-local-adjustments.html	0
+Exposure	曝光	曝光度	曝光度	B	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-local-adjustments.html	3
+Exposure	曝光	曝光度	曝光度	B	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-local-adjustments.html	3
+Exposure	曝光时间	曝光度	曝光度	B	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-local-adjustments.html	-3
+Filmstrip	胶片窗格	胶片显示窗格	胶片显示窗格	B	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-local-adjustments.html	6
+Group	编组	图层组	图层组	B	https://helpx.adobe.com/cn/photoshop/desktop/create-masks/layer-masks/create-and-manage-clipping-masks.html	3
+Group	组	图层组	图层组	B	https://helpx.adobe.com/cn/photoshop/desktop/create-masks/layer-masks/create-and-manage-clipping-masks.html	6
+Lights	亮部	高光	高光	B	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-local-adjustments.html	0
+Lights	亮调	高光	高光	B	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-local-adjustments.html	0
+Photocopy	复印	影印	影印	B	https://helpx.adobe.com/cn/photoshop/desktop/effects-filters/blur-sharpen-filters/filter-effects-reference.html	0
+Pressure	压感	压力	压力	B	https://helpx.adobe.com/cn/photoshop/using/liquify-filter.html	0
+Refine Edge	调整边缘	选择并遮住	选择并遮住	B	https://helpx.adobe.com/cn/photoshop/using/blur-gallery.html	3
+Vibrance	自然饱和度	鲜艳度	鲜艳度	B	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/image-tone-color.html	-6
+Amount	数量	数量	数量	C	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-local-adjustments.html	0
+Anti-alias	消除锯齿	消除锯齿	消除锯齿	C	https://helpx.adobe.com/cn/photoshop/desktop/make-selections/refine-modify-selections/select-pixels-using-anti-aliasing.html	0
+Artboard	画板	画板	画板	C	https://helpx.adobe.com/cn/photoshop/using/artboards.html	0
+Black & White	黑白	黑白	黑白	C	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-local-adjustments.html	0
+Blacks	黑色色阶	黑色色阶	黑色色阶	C	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-local-adjustments.html	0
+Blend Mode	混合模式	混合模式	混合模式	C	https://helpx.adobe.com/cn/photoshop/using/blending-modes.html	0
+Brush	画笔	画笔	画笔	C	https://helpx.adobe.com/cn/photoshop/desktop/apply-painting-techniques/fill-objects-selections-layers/painting-tools-overview.html	0
+Burn	加深	加深	加深	C	https://helpx.adobe.com/cn/photoshop/desktop/repair-retouch/adjust-light-tone/dodge-or-burn-image-areas.html	0
+Channel	通道	通道	通道	C	https://helpx.adobe.com/cn/photoshop/desktop/adjust-color/hdr-and-channel-manipulation/channels-in-photoshop.html	0
+Channel Mixer	通道混合器	通道混合器	通道混合器	C	https://helpx.adobe.com/cn/photoshop/desktop/adjust-color/color-corrections/color-adjustment-commands.html	0
+Channels	通道	通道	通道	C	https://helpx.adobe.com/cn/photoshop/desktop/adjust-color/hdr-and-channel-manipulation/channels-in-photoshop.html	0
+Clarity	清晰度	清晰度	清晰度	C	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-local-adjustments.html	0
+Clear	清除	清除	清除	C	https://helpx.adobe.com/cn/photoshop/using/blending-modes.html	0
+Clone Stamp	仿制图章	仿制图章	仿制图章	C	https://helpx.adobe.com/cn/photoshop/desktop/apply-painting-techniques/fill-objects-selections-layers/painting-tools-overview.html	0
+Color	颜色	颜色	颜色	C	https://helpx.adobe.com/cn/photoshop/using/blending-modes.html	0
+Color Balance	色彩平衡	色彩平衡	色彩平衡	C	https://helpx.adobe.com/cn/photoshop/desktop/adjust-color/color-corrections/apply-color-balance-and-photo-filter-adjustments.html	0
+Color Burn	颜色加深	颜色加深	颜色加深	C	https://helpx.adobe.com/cn/photoshop/using/blending-modes.html	0
+Color Dodge	颜色减淡	颜色减淡	颜色减淡	C	https://helpx.adobe.com/cn/photoshop/using/blending-modes.html	0
+Color Lookup	颜色查找	颜色查找	颜色查找	C	https://helpx.adobe.com/cn/photoshop/using/adjustment-fill-layers.html	0
+Color Mixer	颜色混合器	颜色混合器	颜色混合器	C	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/color-mixer.html	0
+Content-Aware Fill	内容识别填充	内容识别填充	内容识别填充	C	https://helpx.adobe.com/cn/photoshop/desktop/apply-painting-techniques/fill-objects-selections-layers/content-aware-fills.html	0
+Contrast	对比度	对比度	对比度	C	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-local-adjustments.html	0
+Crop	裁剪	裁剪	裁剪	C	https://helpx.adobe.com/cn/photoshop/using/crop-straighten-photos.html	0
+Curves	曲线	曲线	曲线	C	https://helpx.adobe.com/cn/photoshop/using/curves-adjustment.html	0
+Darken	变暗	变暗	变暗	C	https://helpx.adobe.com/cn/photoshop/using/blending-modes.html	0
+Darker Color	深色	深色	深色	C	https://helpx.adobe.com/cn/photoshop/using/blending-modes.html	0
+Detail	细节	细节	细节	C	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-local-adjustments.html	0
+Difference	差值	差值	差值	C	https://helpx.adobe.com/cn/photoshop/using/blending-modes.html	0
+Dissolve	溶解	溶解	溶解	C	https://helpx.adobe.com/cn/photoshop/using/blending-modes.html	0
+Divide	划分	划分	划分	C	https://helpx.adobe.com/cn/photoshop/using/blending-modes.html	0
+Dodge	减淡	减淡	减淡	C	https://helpx.adobe.com/cn/photoshop/desktop/repair-retouch/adjust-light-tone/dodge-or-burn-image-areas.html	0
+Exclusion	排除	排除	排除	C	https://helpx.adobe.com/cn/photoshop/using/blending-modes.html	0
+Export	导出	导出	导出	C	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-presets.html	0
+Feather	羽化	羽化	羽化	C	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-local-adjustments.html	0
+Fill	填充	填充	填充	C	https://helpx.adobe.com/cn/photoshop/desktop/create-manage-layers/color-adjustment-fill-layers/adjustment-and-fill-layers-overview.html	0
+Fill Layer	填充图层	填充图层	填充图层	C	https://helpx.adobe.com/cn/photoshop/desktop/create-manage-layers/color-adjustment-fill-layers/adjustment-and-fill-layers-overview.html	0
+Flatten	拼合	拼合	拼合	C	https://helpx.adobe.com/cn/photoshop/desktop/create-manage-layers/get-started-layers/merge-and-stamp-layers.html	0
+Flow	流量	流量	流量	C	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/lens-blur.html	0
+Free Transform	自由变换	自由变换	自由变换	C	https://helpx.adobe.com/cn/photoshop/desktop/crop-resize-transform/resize-adjust-resolution/transform-images-shapes-and-paths.html	0
+Gaussian Blur	高斯模糊	高斯模糊	高斯模糊	C	https://helpx.adobe.com/cn/photoshop/desktop/effects-filters/blur-sharpen-filters/filter-effects-reference.html	0
+Gradient	渐变	渐变	渐变	C	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-local-adjustments.html	0
+Gradient Map	渐变映射	渐变映射	渐变映射	C	https://helpx.adobe.com/cn/photoshop/using/adjustment-fill-layers.html	0
+Grain	颗粒	颗粒	颗粒	C	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/masking.html	0
+Hand	抓手	抓手	抓手	C	https://helpx.adobe.com/cn/photoshop/desktop/get-started/learn-the-basics/navigate-and-pan-images.html	0
+Hard Light	强光	强光	强光	C	https://helpx.adobe.com/cn/photoshop/using/blending-modes.html	0
+Hard Mix	实色混合	实色混合	实色混合	C	https://helpx.adobe.com/cn/photoshop/using/blending-modes.html	0
+Healing Brush	修复画笔	修复画笔	修复画笔	C	https://helpx.adobe.com/cn/photoshop/desktop/repair-retouch/clean-restore-images/healing-brush-tool.html	0
+Highlights	高光	高光	高光	C	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-local-adjustments.html	0
+Histogram	直方图	直方图	直方图	C	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/image-tone-color.html	0
+History	历史记录	历史记录	历史记录	C	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/develop-module-options.html	0
+Hue	色相	色相	色相	C	https://helpx.adobe.com/cn/photoshop/using/blending-modes.html	0
+Hue/Saturation	色相/饱和度	色相/饱和度	色相/饱和度	C	https://helpx.adobe.com/cn/photoshop/desktop/adjust-color/color-corrections/apply-a-hue-or-saturation-adjustment.html	0
+Image Size	图像大小	图像大小	图像大小	C	https://helpx.adobe.com/cn/photoshop/desktop/crop-resize-transform/resize-adjust-resolution/change-the-canvas-size.html	0
+Invert	反相	反相	反相	C	https://helpx.adobe.com/cn/photoshop/using/adjustment-fill-layers.html	0
+Lasso	套索	套索	套索	C	https://helpx.adobe.com/cn/photoshop/desktop/make-selections/get-started-selections/selection-tools-overview.html	0
+Layer	图层	图层	图层	C	https://helpx.adobe.com/cn/photoshop/desktop/create-manage-layers/color-adjustment-fill-layers/adjustment-and-fill-layers-overview.html	0
+Layer Mask	图层蒙版	图层蒙版	图层蒙版	C	https://helpx.adobe.com/cn/photoshop/using/masking-layers.html	0
+Layers	图层	图层	图层	C	https://helpx.adobe.com/cn/photoshop/desktop/create-manage-layers/color-adjustment-fill-layers/adjustment-and-fill-layers-overview.html	0
+Levels	色阶	色阶	色阶	C	https://helpx.adobe.com/cn/photoshop/using/levels-adjustment.html	0
+Lighten	变亮	变亮	变亮	C	https://helpx.adobe.com/cn/photoshop/using/blending-modes.html	0
+Lighter Color	浅色	浅色	浅色	C	https://helpx.adobe.com/cn/photoshop/using/blending-modes.html	0
+Linear Burn	线性加深	线性加深	线性加深	C	https://helpx.adobe.com/cn/photoshop/using/blending-modes.html	0
+Linear Light	线性光	线性光	线性光	C	https://helpx.adobe.com/cn/photoshop/using/blending-modes.html	0
+Luminosity	明度	明度	明度	C	https://helpx.adobe.com/cn/photoshop/using/blending-modes.html	0
+Marquee	选框	选框	选框	C	https://helpx.adobe.com/cn/photoshop/desktop/make-selections/get-started-selections/selection-tools-overview.html	0
+Mask	蒙版	蒙版	蒙版	C	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/masking.html	0
+Masking	蒙版	蒙版	蒙版	C	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/retouch-photos.html	0
+Maximum	最大值	最大值	最大值	C	https://helpx.adobe.com/cn/photoshop/desktop/effects-filters/blur-sharpen-filters/filter-effects-reference.html	0
+Merge	合并	合并	合并	C	https://helpx.adobe.com/cn/photoshop/desktop/create-manage-layers/get-started-layers/merge-and-stamp-layers.html	0
+Multiply	正片叠底	正片叠底	正片叠底	C	https://helpx.adobe.com/cn/photoshop/using/blending-modes.html	0
+Noise	杂色	杂色	杂色	C	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-local-adjustments.html	0
+Noise Reduction	降噪	降噪	降噪	C	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-presets.html	0
+Normal	正常	正常	正常	C	https://helpx.adobe.com/cn/photoshop/using/blending-modes.html	0
+Opacity	不透明度	不透明度	不透明度	C	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-local-adjustments.html	0
+Overlay	叠加	叠加	叠加	C	https://helpx.adobe.com/cn/photoshop/using/blending-modes.html	0
+Path	路径	路径	路径	C	https://helpx.adobe.com/cn/photoshop/desktop/draw-shapes-paths/draw-lines-curves/draw-paths-with-the-pen-tool.html	0
+Pen	钢笔	钢笔	钢笔	C	https://helpx.adobe.com/cn/photoshop/desktop/draw-shapes-paths/draw-lines-curves/draw-paths-with-the-pen-tool.html	0
+Photo Filter	照片滤镜	照片滤镜	照片滤镜	C	https://helpx.adobe.com/cn/photoshop/desktop/adjust-color/color-corrections/color-adjustment-commands.html	0
+Pin Light	点光	点光	点光	C	https://helpx.adobe.com/cn/photoshop/using/blending-modes.html	0
+Posterize	色调分离	色调分离	色调分离	C	https://helpx.adobe.com/cn/photoshop/using/adjustment-fill-layers.html	0
+Preferences	首选项	首选项	首选项	C	https://helpx.adobe.com/cn/photoshop/using/preferences.html	0
+Preset	预设	预设	预设	C	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-presets.html	0
+Pressure	压力	压力	压力	C	https://helpx.adobe.com/cn/photoshop/using/liquify-filter.html	0
+Radius	半径	半径	半径	C	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/retouch-photos.html	0
+Rasterize	栅格化	栅格化	栅格化	C	https://helpx.adobe.com/cn/photoshop/using/drawing.html	0
+Reset	重置	复位	复位	C	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-local-adjustments.html	0
+Reset	复位	复位	复位	C	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-local-adjustments.html	0
+Saturation	饱和度	饱和度	饱和度	C	https://helpx.adobe.com/cn/photoshop/using/blending-modes.html	0
+Screen	滤色	滤色	滤色	C	https://helpx.adobe.com/cn/photoshop/using/blending-modes.html	0
+Selection	选区	选区	选区	C	https://helpx.adobe.com/cn/photoshop/desktop/make-selections/get-started-selections/selection-tools-overview.html	0
+Selective Color	可选颜色	可选颜色	可选颜色	C	https://helpx.adobe.com/cn/photoshop/using/adjustment-fill-layers.html	0
+Shadows	阴影	阴影	阴影	C	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-local-adjustments.html	0
+Sharpen	锐化	锐化	锐化	C	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-local-adjustments.html	0
+Skew	斜切	斜切	斜切	C	https://helpx.adobe.com/cn/photoshop/desktop/crop-resize-transform/resize-adjust-resolution/transform-images-shapes-and-paths.html	0
+Smart Filter	智能滤镜	智能滤镜	智能滤镜	C	https://helpx.adobe.com/cn/photoshop/using/blur-gallery.html	0
+Smart Object	智能对象	智能对象	智能对象	C	https://helpx.adobe.com/cn/photoshop/desktop/effects-filters/blur-sharpen-filters/overview-of-adding-blur-to-images.html	0
+Smoothing	平滑	平滑	平滑	C	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-local-adjustments.html	0
+Soft Light	柔光	柔光	柔光	C	https://helpx.adobe.com/cn/photoshop/using/blending-modes.html	0
+Sponge	海绵	海绵	海绵	C	https://helpx.adobe.com/cn/photoshop/using/blur-gallery.html	0
+Spot Healing Brush	污点修复画笔	污点修复画笔	污点修复画笔	C	https://helpx.adobe.com/cn/photoshop/desktop/repair-retouch/clean-restore-images/spot-healing-brush-tool.html	0
+Stroke	描边	描边	描边	C	https://helpx.adobe.com/cn/photoshop/using/blending-modes.html	0
+Swatches	色板	色板	色板	C	https://helpx.adobe.com/cn/photoshop/desktop/adjust-color/choose-colors/work-with-the-swatches-panel.html	0
+Sync Settings	同步设置	同步设置	同步设置	C	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/develop-module-options.html	0
+Temperature	色温	色温	色温	C	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-local-adjustments.html	0
+Texture	纹理	纹理	纹理	C	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-local-adjustments.html	0
+Threshold	阈值	阈值	阈值	C	https://helpx.adobe.com/cn/photoshop/using/adjustment-fill-layers.html	0
+Tint	色调	色调	色调	C	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-local-adjustments.html	0
+Tone Curve	色调曲线	色调曲线	色调曲线	C	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/image-tone-color.html	0
+Vignette	暗角	暗角	暗角	C	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/retouch-photos.html	0
+Vivid Light	亮光	亮光	亮光	C	https://helpx.adobe.com/cn/photoshop/using/blending-modes.html	0
+White Balance	白平衡	白平衡	白平衡	C	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/develop-module-options.html	0
+Whites	白色色阶	白色色阶	白色色阶	C	https://helpx.adobe.com/cn/lightroom-classic/desktop/process-and-develop-photos/apply-local-adjustments.html	0
+Zoom	缩放	缩放	缩放	C	https://helpx.adobe.com/cn/photoshop/desktop/get-started/learn-the-basics/navigate-and-pan-images.html	0
